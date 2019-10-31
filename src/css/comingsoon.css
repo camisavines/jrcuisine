@@ -1,7 +1,15 @@
-.full { height: 100vh; }
+/* .full { height: 100vh; }
 
 .vertical-align {
   justify-content: center;
   display: flex;
   align-items: center;
+} */
+
+.hero-coming-soon {
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url('http://www.theflyingfugu.com/wp-content/uploads/2012/01/alligator.jpg');
+    background-position: center center;
+    background-size: cover;
+    color: white;
+    font-weight: 900;
 }
