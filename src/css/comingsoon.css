@@ -1,0 +1,7 @@
+.full { height: 100vh; }
+
+.vertical-align {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
