@@ -1,12 +1,27 @@
 import React from 'react';
 import "../css/comingsoon.css";
 
+import logo from '../images/logo.jpeg';
+import insta from '../images/icons/instagram-white.png';
+import facebook from '../images/icons/facebook-white.png';
+import email from '../images/icons/mail-white.png';
+import phone from '../images/icons/phone-white.png';
+
 function ComingSoon() {
     return (
-        <div className="full vertical-align hero-coming-soon text-center">
-            <div>
-                <h1>Coming Soon</h1>
-                <p>JaMiere Phillips, Founder and Chef</p>
+        <div className="full hero-coming-soon text-center">
+            <div className="container">
+                <div className="logo-container vertical-align container"><img src={logo} className="logo" /></div>
+                <div>
+                    <h1><b>Coming Soon!</b></h1>
+                    <p>JaMiere Phillips, Founder and Head Chef</p>
+                    <div><img className="icon" src={email} /> jamierephillips@yahoo.com</div>
+                    <div><img className="icon" src={phone} /> (574)-314-0013</div>
+                    <div><img className="icon" src={insta} /> @j.r.cuisine</div>
+                    <div><img className="icon" src={facebook} /> JR Cuisine</div>
+                    <div><i className="material-icons">person_pin</i> South Bend, IN, 46617</div>
+                </div>
+                
             </div>
         </div>
     )

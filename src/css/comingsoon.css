@@ -1,15 +1,28 @@
-/* .full { height: 100vh; }
+.logo-container { height: 45vh; }
+.logo {width: 400px;}
 
-.vertical-align {
-  justify-content: center;
-  display: flex;
-  align-items: center;
-} */
+.bottom-container {height: 85vh;}
 
 .hero-coming-soon {
-    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url('http://www.theflyingfugu.com/wp-content/uploads/2012/01/alligator.jpg');
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url('../images/IMG_0020.JPG');
     background-position: center center;
     background-size: cover;
     color: white;
     font-weight: 900;
+}
+
+.material-icons {
+  vertical-align: bottom;
+}
+
+.icon {
+  vertical-align: bottom;
+  height: 25px;
+  width: 25px;
+  color: white;
+}
+
+.insta {
+  overflow: hidden;
+  color: #FFFFFF
 }
