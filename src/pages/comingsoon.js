@@ -11,14 +11,14 @@ function ComingSoon() {
     return (
         <div className="full hero-coming-soon text-center">
             <div className="container">
-                <div className="logo-container vertical-align container"><img src={logo} className="logo" /></div>
+                <div className="logo-container vertical-align container"><img src={logo} className="logo" alt="logo" /></div>
                 <div>
                     <h1><b>Coming Soon!</b></h1>
                     <p>JaMiere Phillips, Founder and Head Chef</p>
-                    <div><img className="icon" src={email} /> jamierephillips@yahoo.com</div>
-                    <div><img className="icon" src={phone} /> (574)-314-0013</div>
-                    <div><img className="icon" src={insta} /> @j.r.cuisine</div>
-                    <div><img className="icon" src={facebook} /> JR Cuisine</div>
+                    <div><img className="icon" src={email} alt="email-icon"/> jamierephillips@yahoo.com</div>
+                    <div><img className="icon" src={phone} alt="phone-icon"/> (574)-314-0013</div>
+                    <div><img className="icon" src={insta} alt="insta-icon"/> @j.r.cuisine</div>
+                    <div><img className="icon" src={facebook} alt="facebook-icon"/> JR Cuisine</div>
                     <div><i className="material-icons">person_pin</i> South Bend, IN, 46617</div>
                 </div>
                 
