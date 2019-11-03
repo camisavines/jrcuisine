@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8d800e8b2120aa249d2c95211d06859",
+    "revision": "bef0b5e2cab3ec154da68ff8554c197c",
     "url": "/jrcuisine/index.html"
   },
   {
-    "revision": "e53d342ecbee41351824",
-    "url": "/jrcuisine/static/css/main.a2000a69.chunk.css"
+    "revision": "0b9337c3565376035e3d",
+    "url": "/jrcuisine/static/css/main.4ef13d7d.chunk.css"
   },
   {
-    "revision": "cbf558284a2b28482e9b",
-    "url": "/jrcuisine/static/js/2.76c90e39.chunk.js"
+    "revision": "6d4ab73b57d67ece74f0",
+    "url": "/jrcuisine/static/js/2.356f3139.chunk.js"
   },
   {
-    "revision": "e53d342ecbee41351824",
-    "url": "/jrcuisine/static/js/main.41156831.chunk.js"
+    "revision": "0b9337c3565376035e3d",
+    "url": "/jrcuisine/static/js/main.15215fa2.chunk.js"
   },
   {
     "revision": "a9a18bc19cb3c15700e3",

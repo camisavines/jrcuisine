@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/jrcuisine/static/css/main.a2000a69.chunk.css",
-    "main.js": "/jrcuisine/static/js/main.41156831.chunk.js",
-    "main.js.map": "/jrcuisine/static/js/main.41156831.chunk.js.map",
+    "main.css": "/jrcuisine/static/css/main.4ef13d7d.chunk.css",
+    "main.js": "/jrcuisine/static/js/main.15215fa2.chunk.js",
+    "main.js.map": "/jrcuisine/static/js/main.15215fa2.chunk.js.map",
     "runtime-main.js": "/jrcuisine/static/js/runtime-main.a803adac.js",
     "runtime-main.js.map": "/jrcuisine/static/js/runtime-main.a803adac.js.map",
-    "static/js/2.76c90e39.chunk.js": "/jrcuisine/static/js/2.76c90e39.chunk.js",
-    "static/js/2.76c90e39.chunk.js.map": "/jrcuisine/static/js/2.76c90e39.chunk.js.map",
+    "static/js/2.356f3139.chunk.js": "/jrcuisine/static/js/2.356f3139.chunk.js",
+    "static/js/2.356f3139.chunk.js.map": "/jrcuisine/static/js/2.356f3139.chunk.js.map",
     "index.html": "/jrcuisine/index.html",
-    "precache-manifest.283d97b8acc6057b1833abb226acf182.js": "/jrcuisine/precache-manifest.283d97b8acc6057b1833abb226acf182.js",
+    "precache-manifest.1e6b7a8fe699f0c814319150b0dc32fa.js": "/jrcuisine/precache-manifest.1e6b7a8fe699f0c814319150b0dc32fa.js",
     "service-worker.js": "/jrcuisine/service-worker.js",
-    "static/css/main.a2000a69.chunk.css.map": "/jrcuisine/static/css/main.a2000a69.chunk.css.map",
+    "static/css/main.4ef13d7d.chunk.css.map": "/jrcuisine/static/css/main.4ef13d7d.chunk.css.map",
     "static/media/comingsoon.css": "/jrcuisine/static/media/IMG_0020.a7074914.JPG",
     "static/media/instagram-white.png": "/jrcuisine/static/media/instagram-white.bb3ba7d0.png",
     "static/media/logo.jpeg": "/jrcuisine/static/media/logo.917cd80d.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.a803adac.js",
-    "static/js/2.76c90e39.chunk.js",
-    "static/css/main.a2000a69.chunk.css",
-    "static/js/main.41156831.chunk.js"
+    "static/js/2.356f3139.chunk.js",
+    "static/css/main.4ef13d7d.chunk.css",
+    "static/js/main.15215fa2.chunk.js"
   ]
 }
