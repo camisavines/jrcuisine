@@ -10,7 +10,7 @@ body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
     background-repeat: no-repeat;
     color: white;
     font-weight: 900;
-    animation: slideshow 36s infinite;
+    /* animation: slideshow 36s infinite; */
 }
 
 @keyframes slideshow {
