@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Route } from 'react-router-dom';
+import {BrowserRouter as Router, Route, Link } from 'react-router-dom';
 // import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 import ComingSoon from './pages/comingsoon';
@@ -10,9 +10,8 @@ function App() {
   return (
     <Router>
 
-
-      <Route path="/" exact component={ComingSoon} />
-      <Route path="/home" component={Home} />
+        <Route path="/comingsoon" exact component={ComingSoon} />
+        <Route path="/home" component={Home} />
 
     </Router>
   );

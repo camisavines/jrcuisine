@@ -21,7 +21,6 @@ function ComingSoon() {
                     <div><img className="icon" src={facebook} alt="facebook-icon"/> JR Cuisine</div>
                     <div><i className="material-icons">person_pin</i> South Bend, IN, 46617</div>
                 </div>
-                
             </div>
         </div>
     )
