@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
 
-        <Route path="/" exact component={ComingSoon} />
+        <Route path="/jrcuisine" exact component={ComingSoon} />
         <Route path="/home" component={Home} />
 
     </Router>
