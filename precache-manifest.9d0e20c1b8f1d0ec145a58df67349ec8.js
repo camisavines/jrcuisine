@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4ab9662b9e21c9942bc448f8cf57f02",
+    "revision": "53c05dc771c8a97c2d0ba648cdf0f77e",
     "url": "/jrcuisine/index.html"
   },
   {
-    "revision": "4fc7812995b86418957a",
+    "revision": "e02cf4c20c10ccf5571a",
     "url": "/jrcuisine/static/css/main.62f310c2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jrcuisine/static/js/2.853a2170.chunk.js"
   },
   {
-    "revision": "4fc7812995b86418957a",
-    "url": "/jrcuisine/static/js/main.e11b38ca.chunk.js"
+    "revision": "e02cf4c20c10ccf5571a",
+    "url": "/jrcuisine/static/js/main.aa025041.chunk.js"
   },
   {
     "revision": "a9a18bc19cb3c15700e3",

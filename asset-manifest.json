@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jrcuisine/static/css/main.62f310c2.chunk.css",
-    "main.js": "/jrcuisine/static/js/main.e11b38ca.chunk.js",
-    "main.js.map": "/jrcuisine/static/js/main.e11b38ca.chunk.js.map",
+    "main.js": "/jrcuisine/static/js/main.aa025041.chunk.js",
+    "main.js.map": "/jrcuisine/static/js/main.aa025041.chunk.js.map",
     "runtime-main.js": "/jrcuisine/static/js/runtime-main.a803adac.js",
     "runtime-main.js.map": "/jrcuisine/static/js/runtime-main.a803adac.js.map",
     "static/js/2.853a2170.chunk.js": "/jrcuisine/static/js/2.853a2170.chunk.js",
     "static/js/2.853a2170.chunk.js.map": "/jrcuisine/static/js/2.853a2170.chunk.js.map",
     "index.html": "/jrcuisine/index.html",
-    "precache-manifest.1c4f6ebbcab34bceb699df89f9014bb8.js": "/jrcuisine/precache-manifest.1c4f6ebbcab34bceb699df89f9014bb8.js",
+    "precache-manifest.9d0e20c1b8f1d0ec145a58df67349ec8.js": "/jrcuisine/precache-manifest.9d0e20c1b8f1d0ec145a58df67349ec8.js",
     "service-worker.js": "/jrcuisine/service-worker.js",
     "static/css/main.62f310c2.chunk.css.map": "/jrcuisine/static/css/main.62f310c2.chunk.css.map",
     "static/media/comingsoon.css": "/jrcuisine/static/media/IMG_0029.002ac7ca.JPG",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a803adac.js",
     "static/js/2.853a2170.chunk.js",
     "static/css/main.62f310c2.chunk.css",
-    "static/js/main.e11b38ca.chunk.js"
+    "static/js/main.aa025041.chunk.js"
   ]
 }
