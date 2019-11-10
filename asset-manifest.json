@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/jrcuisine/static/css/main.62f310c2.chunk.css",
-    "main.js": "/jrcuisine/static/js/main.aa025041.chunk.js",
-    "main.js.map": "/jrcuisine/static/js/main.aa025041.chunk.js.map",
-    "runtime-main.js": "/jrcuisine/static/js/runtime-main.a803adac.js",
-    "runtime-main.js.map": "/jrcuisine/static/js/runtime-main.a803adac.js.map",
-    "static/js/2.853a2170.chunk.js": "/jrcuisine/static/js/2.853a2170.chunk.js",
-    "static/js/2.853a2170.chunk.js.map": "/jrcuisine/static/js/2.853a2170.chunk.js.map",
+    "main.css": "/static/css/main.62f310c2.chunk.css",
+    "main.js": "/static/js/main.aa025041.chunk.js",
+    "main.js.map": "/static/js/main.aa025041.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a803adac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a803adac.js.map",
+    "static/js/2.853a2170.chunk.js": "/static/js/2.853a2170.chunk.js",
+    "static/js/2.853a2170.chunk.js.map": "/static/js/2.853a2170.chunk.js.map",
     "index.html": "/jrcuisine/index.html",
-    "precache-manifest.6875314085cd784e7c9b595617efe3d9.js": "/jrcuisine/precache-manifest.6875314085cd784e7c9b595617efe3d9.js",
+    "precache-manifest.6875314085cd784e7c9b595617efe3d9.js": "/precache-manifest.6875314085cd784e7c9b595617efe3d9.js",
     "service-worker.js": "/jrcuisine/service-worker.js",
-    "static/css/main.62f310c2.chunk.css.map": "/jrcuisine/static/css/main.62f310c2.chunk.css.map",
-    "static/media/comingsoon.css": "/jrcuisine/static/media/IMG_0029.002ac7ca.JPG",
-    "static/media/instagram-white.png": "/jrcuisine/static/media/instagram-white.bb3ba7d0.png",
-    "static/media/logo.jpeg": "/jrcuisine/static/media/logo.917cd80d.jpeg"
+    "static/css/main.62f310c2.chunk.css.map": "/static/css/main.62f310c2.chunk.css.map",
+    "static/media/comingsoon.css": "/static/media/IMG_0029.002ac7ca.JPG",
+    "static/media/instagram-white.png": "/static/media/instagram-white.bb3ba7d0.png",
+    "static/media/logo.jpeg": "/static/media/logo.917cd80d.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.a803adac.js",
