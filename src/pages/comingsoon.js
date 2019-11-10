@@ -11,7 +11,9 @@ function ComingSoon() {
     return (
         <div className="full hero-coming-soon text-center">
             <div className="container">
-                <div className="logo-container vertical-align container"><img src={logo} className="logo" alt="logo" /></div>
+                <div className="logo-container vertical-align container">
+                    <img className="logo" src={logo}  alt="logo" />
+                </div>
                 <div>
                     <h1><b>Coming Soon!</b></h1>
                     <p>JaMiere Phillips, Founder and Head Chef</p>
