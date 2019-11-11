@@ -1,7 +1,27 @@
 nav {
-    background: #333;
+    background: transparent;
 }
 
+.brand {
+    color: white !important;
+    cursor: pointer;
+    font-size: 20pt;
+}
+
+.nav-item {
+    margin-right: 20px;
+    margin-left: 5px;
+    font-size: 14pt;
+    color: white;
+    cursor: pointer;
+}
+/* nav {
+    background: #333;
+    color: white;
+}
+.navbar-brand {
+    margin-right: 10px;
+}
 .nav-link {
     color: white !important;
-}
+} */

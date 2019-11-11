@@ -13,7 +13,8 @@ code {
 }
 
 .full { height: 100vh; }
-
+.half { height: 50vh; }
+.quarter { height: 25vh; }
 .vertical-align {
   justify-content: center;
   display: flex;

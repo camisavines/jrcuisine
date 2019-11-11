@@ -1,0 +1,21 @@
+.gallery-hero {
+    background-image: linear-gradient(rgba(0,0,0,.9),rgba(0,0,0,.9)), url('../images/IMG_0029.JPG');
+    background-size: cover;
+    background-position: center center;
+    /* color: white; */
+}
+
+.test-box {
+    background: blue;
+    height: 100px;
+    width: 100%;
+}
+
+.gallery div {
+    display: inline-block;
+}
+
+.w-full {
+    width: 100vw;
+    overflow-x: hidden;
+}

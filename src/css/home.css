@@ -1,0 +1,43 @@
+.hero-home {
+    background-image: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.4)), url("../images/IMG_0030.JPG");
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+.logo {
+    width: 50%;
+}
+
+.title {
+    font-size: 70pt;
+}
+
+.home-button {
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12pt;
+    font-weight: bold;
+    background: blue;
+    color: white;
+    transition: 1s;
+}
+
+.home-button:hover {
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 12pt;
+    font-weight: bold;
+    background: white;
+    color: black;
+}
+
+section {
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
