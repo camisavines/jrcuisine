@@ -2,6 +2,7 @@ import React from "react";
 import $ from 'jquery'; 
 import Navigation from '../components/navigation';
 import GalleryPhoto from '../components/galleryPhoto';
+import logo from '../images/logos/logoTest1.png';
 import '../css/gallery.css';
 
 
@@ -22,7 +23,7 @@ function Gallery()  {
                 </div>
             </div>
 
-            <div className="row d-flex">
+            <div className="gallery">
                 {pageContent}
             </div>
 

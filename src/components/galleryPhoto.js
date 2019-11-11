@@ -6,11 +6,10 @@ class GalleryPhoto extends React.Component {
         this.style = {
             backgroundImage: `url(${this.props.img})`,
             backgroundSize: "cover",
-            width: "22rem",
             paddingBottom: "100%",
             backgroundPosition: "center center",
-            display: "block",
-            marginBottom: "10px"
+            marginBottom: "10px",
+            marginTop: "10px"
         }
     }
 

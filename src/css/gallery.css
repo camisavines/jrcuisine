@@ -5,17 +5,11 @@
     /* color: white; */
 }
 
-.test-box {
-    background: blue;
-    height: 100px;
-    width: 100%;
-}
 
-.gallery div {
-    display: inline-block;
-}
-
-.w-full {
+.gallery {
+    /* justify-content: center; */
+    display: flex;
+    align-items: center;
     width: 100vw;
-    overflow-x: hidden;
+    flex-wrap: wrap;
 }
