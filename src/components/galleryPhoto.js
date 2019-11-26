@@ -8,8 +8,8 @@ class GalleryPhoto extends React.Component {
             backgroundSize: "cover",
             paddingBottom: "100%",
             backgroundPosition: "center center",
-            marginBottom: "10px",
-            marginTop: "10px"
+            marginBottom: "5px",
+            marginTop: "15px"
         }
     }
 

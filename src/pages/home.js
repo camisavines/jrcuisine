@@ -10,7 +10,7 @@ function Home() {
     return (
         <div>
             <div className="full hero-home">
-                <Navigation />
+            <Navigation/>
                 <div className="container vertical-align">
                     <div>
                         <div className="text-center logo-container"><img src={logo} className="logo" alt="logo"/></div>

@@ -1,5 +1,4 @@
 import React from "react";
-import $ from 'jquery'; 
 import Navigation from '../components/navigation';
 import GalleryPhoto from '../components/galleryPhoto';
 import logo from '../images/logos/logoTest1.png';
@@ -15,7 +14,7 @@ const pageContent = images.map((image) =>
 
 function Gallery()  {
     return (
-        <div className="w-full">
+        <div>
             <div className="gallery-hero">
                 <Navigation />
                 <div className="quarter vertical-align">

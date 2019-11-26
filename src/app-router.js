@@ -11,7 +11,6 @@ import './css/index.css';
 function App() {
   return (
     <Router>
-
         <Route path="/" exact component={ComingSoon} />
         <Route path="/home" component={Home} />
         <Route path="/gallery" component={Gallery} />
