@@ -1,27 +1,11 @@
-nav {
-    background: transparent;
-}
-
-.brand {
-    color: white !important;
+/* nav { background: white;} */
+.navbar-brand {
+    color: blue !important;
     cursor: pointer;
     font-size: 20pt;
 }
 
-.nav-item {
-    margin-right: 20px;
-    margin-left: 5px;
+.nav-link {
     font-size: 14pt;
-    color: white;
     cursor: pointer;
 }
-/* nav {
-    background: #333;
-    color: white;
-}
-.navbar-brand {
-    margin-right: 10px;
-}
-.nav-link {
-    color: white !important;
-} */

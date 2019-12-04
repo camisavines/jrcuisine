@@ -1,7 +1,8 @@
 import React from 'react';
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
-import Navigation from '../components/navigation';
 import GalleryPhoto from '../components/galleryPhoto';
+
 import '../css/home.css';
 import logo from "../images/logos/logoTest1.png";
 import test from '../images/IMG_0030.JPG';
@@ -9,18 +10,17 @@ import test from '../images/IMG_0030.JPG';
 function Home() {
     return (
         <div>
-            <div className="full hero-home">
-            <Navigation/>
-                <div className="container vertical-align">
-                    <div>
-                        <div className="text-center logo-container"><img src={logo} className="logo" alt="logo"/></div>
-                        <h1 className="title">JR Cuisine</h1>
-                        <p>With head chef JaMiere Phillips, JR Cuisine is the best place to get real food delivered righ to you, based in South Bend, IN. </p>
-                        <button className="home-button">MENU</button>
-                    </div>
+            <div className="full hero-home vertical-align">
+                <div className="container">
+                    <div className="text-center pb-5"><img src={logo} className="logo" alt="logo"/></div>
+                    <h1 className="title">JR Cuisine</h1>
+                    <p>With head chef JaMiere Phillips, JR Cuisine is the best place to get real food delivered righ to you, based in South Bend, IN. </p>
+                    <button className="home-button"><Link to="/menu">MENU</Link></button>
                 </div>
             </div>
-            <main className="container">
+            <main className="bg-white p-5">
+                <div className="container">
+
 
                 <section>
                     <h1>Menu</h1>
@@ -43,16 +43,16 @@ function Home() {
 
                 </section>
 
-                <section>
-                    <h1>Order Now</h1>
-                    <div className="row">
-                        <div className="col-3"></div>
+                <section className="text-center half vertical-align">
+                    <div>
+                        <h1>Now, let's get ready to eat!</h1>
+                        <button className="home-button"><Link to="/menu">ORDER NOW</Link></button>
                     </div>
                 </section>
 
 
 
-
+            </div>
             </main>
         </div>
     )

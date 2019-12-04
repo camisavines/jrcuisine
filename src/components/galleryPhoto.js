@@ -9,15 +9,21 @@ class GalleryPhoto extends React.Component {
             paddingBottom: "100%",
             backgroundPosition: "center center",
             marginBottom: "5px",
-            marginTop: "15px"
+            marginTop: "15px",
+            cursor: "pointer"
         }
+        this.modal = this.modal.bind(this);
+    }
+
+    modal() {
+        // console.log("clicked");
     }
 
 
 
     render() {
         return (
-            <div style={this.style}></div>
+            <div style={this.style} onClick={this.modal}></div>
         )
     }
 }

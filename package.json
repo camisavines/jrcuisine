@@ -2,8 +2,9 @@
   "name": "jrcuisine",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://camisavines.github.io/",
+  "homepage": "https://jr-cuisine.com/",
   "dependencies": {
+    "ekko-lightbox": "^5.3.0",
     "gh-pages": "^2.1.1",
     "jquery": "^3.4.1",
     "react": "^16.11.0",
